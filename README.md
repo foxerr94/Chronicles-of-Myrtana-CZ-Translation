@@ -6,8 +6,8 @@ Script to get translation status of the Czech branch of the Chronicles of Myrtan
  **The Chronicles of Myrtana Crowdin project**: https://crowdin.com/project/the-chronicles-of-myrtana
  
  **Requirements:**
- Python
- Crowdin Python client (https://github.com/crowdin/crowdin-api-client-python)
+ * Python
+ * Crowdin Python client (https://github.com/crowdin/crowdin-api-client-python)
 
 ## High-level description
  (the algorithm should take approximately 10-15 minutes
