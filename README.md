@@ -1,6 +1,8 @@
 # Chronicles-of-Myrtana-CZ-Translation
 Repo for stuff to help organize Czech translation of the CoM modification.
 
+**Authors**: L-Titan (Gelaos), jeek313
+
 **Up-to-date documentation**: https://docs.google.com/document/d/1G02rnl2-OLKQGSpYKmmz2G4HTLCBkY-SCMmcdZcZ33o/edit?usp=sharing
 
 ## Brief documentation
