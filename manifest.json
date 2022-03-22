@@ -1,0 +1,35 @@
+// AUTHORS: 
+// L-Titan, February  5th, 2022 - injecting strings
+// jeek313, February 15th, 2022 - injecting voiceover, code refactoring
+//  
+// Made for Czech Chronicles of Myrtana translation community
+
+{
+    "manifest_version": 3,
+    "name":    "CoM Crowdin PL injector",
+    "version": "1.4",
+    "description": "Injects strings (and optionally also voiceover) to Crowdin translation editor (The Chronicles of Myrtana project).",
+
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [{
+        "matches": [
+            "*://crowdin.com/*/the-chronicles-of-myrtana/*/en-*",
+			"*://translate.thechroniclesofmyrtana.com/*/en-*"
+        ],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+    }],
+    "action": {
+        "default_title": "CoM Crowdin PL injecter"
+    },
+    "permissions": [
+		"scripting",
+		"activeTab"
+	],
+	"web_accessible_resources": [{
+		"resources": ["SPEECH_PL/*.ogg"],
+		"matches": ["<all_urls>"]
+	}]
+}
