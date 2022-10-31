@@ -1,0 +1,17 @@
+﻿{
+  "DIA_Astol_HELLO_03_01": "Ahoj! Po tom všem těžení zlata musíš být unavený.",
+  "DIA_Astol_HELLO_03_02": "Lehni si na chvíli na jednu z těch pohodlných postelí z ovčí kůže a odpočiň si. Naber sílu a budeš připravený zase pokračovat v práci.",
+  "DIA_Astol_HELLO_Yes_15_01": "Díky, spánek mi udělá dobře.",
+  "DIA_Astol_HELLO_No_15_01": "Možná někdy jindy.",
+  "DIA_Astol_AfterSleep_03_01": "Jak se ti spalo?",
+  "DIA_Astol_AfterSleep_15_02": "Dobře, docela dobře.",
+  "DIA_Astol_AfterSleep_03_03": "To je skvělé. 7 zlatých nugetů.",
+  "DIA_Astol_AfterSleep_15_04": "Neřekl jsi, že budu muset za spánek platit!",
+  "DIA_Astol_AfterSleep_03_05": "Myslím, že je to jasné. Zaplatíš, nebo to z tebe mám dostat sám?",
+  "DIA_Astol_AfterSleep_03_06": "Odpočatý? Nezapomněl jsi snad na 7 nugetů za službu, že ne?",
+  "DIA_Astol_AfterSleep_Pay_15_01": "Dobře, vezmi si nugety.",
+  "DIA_Astol_AfterSleep_Pay_03_02": "Chytrý chlapec. Kdyby sis potřeboval ještě znovu krátce zdřímnout, víš, kde mě najdeš.",
+  "DIA_Astol_AfterSleep_No_15_01": "Nic nedostaneš.",
+  "DIA_Astol_AfterFight_03_02": "Děkujeme, že jsi využil našich služeb, a znovu se k nám vraťte.",
+  "DIA_Astol_AfterFight_03_01": "Nechte si nugety. Jdi mi z očí!"
+}
